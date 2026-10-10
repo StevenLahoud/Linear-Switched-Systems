@@ -44,5 +44,6 @@ Consquently, we use these functions together to make the primary algorithm **'Mi
 - [![scipy](https://img.shields.io/badge/scipy-%3E=1.10-blue)](https://scipy.org/)
 - [![plotext](https://img.shields.io/badge/plotext-latest-lightgrey)](https://github.com/piccolomo/plotext)
 
-
+### Authors
+Lahoud Steven, Mernissi-Arifi Amine
 
